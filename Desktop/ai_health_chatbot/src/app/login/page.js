@@ -57,7 +57,7 @@ export default function Login() {
       {/* Image and Welcome */}
       <div className="relative z-10 mt-2 flex flex-row items-center justify-center gap-0">
   <h1 className="text-2xl font-bold text-black ml-15">Welcome back!</h1>
-  <img src="/image.png" alt="Chatbot mascot" className="w-90 h-90" />
+  <img src="/image.png" alt="Chatbot mascot" className="w-40 h-40" />
 </div>
 
       {/* Login Card/Form */}
